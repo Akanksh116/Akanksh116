@@ -48,6 +48,18 @@ I’ve worked on projects ranging from **deep learning for dog breed classificat
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akanksh116&show_icons=true&theme=tokyonight" alt="Akanksh's GitHub stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akanksh116&theme=tokyonight" alt="GitHub Streak" />
+</p>  
+
+---
+
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akanksh-inampudi-84a65824a/)  
@@ -56,4 +68,7 @@ I’ve worked on projects ranging from **deep learning for dog breed classificat
 
 ---
 
-⭐️ *"Always learning, building, and solving problems with code & creativity."*  
+## ⚡ Fun Facts  
+- 🏏 Big fan of **cricket**, both playing & watching!  
+- 🎬 Movie enthusiast – always up for good cinema.  
+- ✨ Motto: *"Always learning, building, and solving problems with code & creativity."*  

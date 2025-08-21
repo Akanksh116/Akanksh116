@@ -48,17 +48,7 @@ I’ve worked on projects ranging from **deep learning for dog breed classificat
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akanksh116&show_icons=true&theme=tokyonight" alt="Akanksh's GitHub stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akanksh116&theme=tokyonight" alt="GitHub Streak" />
-</p>  
-
----
 
 ## 🌐 Connect with Me  
 
